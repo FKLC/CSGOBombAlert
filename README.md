@@ -4,7 +4,7 @@ CS:GO Bomb Alert is a program that alerts you 30 and 35 seconds after bomb plant
 
 ## Installation
 
-1. First download the [latest release](https://github.com/FKLC/CSGO-Bomb-Alert/releases/latest/download/CSGOBombAlert.exe), and [config file](https://github.com/FKLC/CSGO-Bomb-Alert/releases/latest/download/gamestate_integration_bombalert.cfg).
+1. First download the [latest release](https://github.com/FKLC/CSGOBombAlert/releases/latest/download/CSGOBombAlert.exe), and [config file](https://github.com/FKLC/CSGOBombAlert/releases/latest/download/gamestate_integration_bombalert.cfg).
 2. Open CS:GO folder. (the following 3 steps taken from [here](https://dmarket.com/blog/csgo-autoexec/))
    1. **Open Steam app** and visit your game Library.
    2. **Right-click CS:GO** in the list of your games, choose “**Properties**”.
@@ -19,4 +19,4 @@ Well, the answer is I don't know but I don't think so because program only uses 
 
 **I do not guarantee you that you will not get banned for using this.**
 
-<small><small>BTW I started learning Go yesterday so if you think my code is bad yeah I know it is</small></small>
+<sup><sup>BTW I started learning Go yesterday so if you think my code is bad yeah I know it is</sup></sup>
