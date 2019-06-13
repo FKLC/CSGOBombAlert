@@ -1,3 +1,10 @@
+# This project is not working.
+After publishing project on Reddit [JHunz](https://www.reddit.com/user/JHunz/) said
+	
+> [I don't know how much testing you've done, so you may already know this. But Valve intentionally obfuscates the timing of bomb plants in the game state API by plus or minus a few seconds to prevent stuff like this from presenting an in-game advantage. I think it may give you reliable timing when you yourself have planted the bomb, however it is definitely not reliable when teammates and/or enemies have planted.](https://www.reddit.com/r/golang/comments/c09ls5/go_based_csgo_bomb_alert/er2ykw6)
+
+So I recorded screen to be sure about it and yes it adds delay to requests. I'm not going to delete it but I'll archive the project.
+
 # CS:GO Bomb Alert
 
 CS:GO Bomb Alert is a program that alerts you 30 and 35 seconds after bomb planted in CS:GO.
